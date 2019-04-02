@@ -1,7 +1,4 @@
 # springishere
 But it's still cold
 
-Today is March 26, 2019
-
-
-It is 8 degree celsius today.
+Today is April 2, 2019.
